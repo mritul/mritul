@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Mritul</h1>
-<h3 align="center">I'm Mritul, a web development enthusiast exploring the different horizons in the field of Web Development.</h3>
+<h3 align="center">I'm Mritul, a web development enthusiast also exploring the different horizons in the fields of App development and Machine Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mritul&label=Profile%20views&color=0e75b6&style=flat" alt="mritul" /> </p>
 
